@@ -1,0 +1,13 @@
+1. pick a name for your project and setup a github repo for it
+2. sketch the application interface on paper.
+3. olso on paper describe the functionality 
+4. design a site interface.
+5. implement the designuin html & css
+6. build using javascript
+  - three entities: users, stories and sentences. (localstorage)
+  - allow people to login, remember login(localstorage), and logout.
+  - display current state of a story(collections of sentences)
+  - allow the user to enter a sentence (not edit) 
+  - users must be able to vote sentences.
+  - calculate user ratings.  
+7. deploy app on appfog
